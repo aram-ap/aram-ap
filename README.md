@@ -1,7 +1,7 @@
-Hi, I'm Aram Aprahamian, aka @ThicChonk ...
+Hi, I'm Aram Aprahamian, aka @ThicChonk ...\n
 
-I don't know how you found my page but welcome ...
-Honestly I don't know exactly what I'm interested in, but look at my projects because I'm constantly trying new things ...
+I don't know how you found my page but welcome ...\n
+Honestly I don't know exactly what I'm interested in, but look at my projects because I'm constantly trying new things ...\n
 
--Aram Aprahamian
+-Aram Aprahamian\n
 aramap22@gmail.com
