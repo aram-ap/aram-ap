@@ -1,7 +1,17 @@
-Hi, I'm Aram Aprahamian, aka @aram-ap ...
+### About me
 
-I don't know how you found my page but welcome ...
-Honestly I don't know exactly what I'm interested in, but look at my projects because I'm constantly trying new things ...
+#### Hi, I'm Aram Aprahamian, aka @aram-ap ... <br>
+I'm a SWE/Student based in Southern California, studying for my bachelors in CS. Whenever I'm not in school, I'm usually taking photos with my camera, listening to music (and collecting records), and building keyboards. <br>
+
+### My dev side
+My focus is in Game Development, embedded hardware programming, HPC, and image processing. My primary coding languages are Java, C#, C, Swift, and Python, however, I'm always trying to learn new languages and tech stacks.
+Through my projects and internships, I'm comfortable developing with JavaFX, Java JNI, Arduinos (C), SDL2 (C++), Unity (C#), and iOS app development (Swift).
+
+### Some quick fun facts
+- My keyboard setup is a Tofu65 with Boba U4T switches, but I go between that and my other Tofu65 keeb with durock linears T2, lubed and filmed. At work, I use a NuPhy Air75.
+- I've loved photography for as long as I remember. There's something about taking a camera out onto the street, going on adventures, and taking beautiful photos which is so calming. My go-to camera is my little FujiFilm X-E3, with either my 35mm F1.4 or 23mm F1.4.
+
+---
 
 -Aram Aprahamian
 aram@apra.dev
