@@ -13,7 +13,14 @@ Through my projects and internships, I'm comfortable developing with JavaFX, Jav
 - My keyboard setup is a Tofu65 with Boba U4T switches, but I go between that and my other Tofu65 keeb with durock linears T2, lubed and filmed. At work, I use a NuPhy Air75.
 - I've loved photography for as long as I remember. There's something about taking a camera out onto the street, going on adventures, and taking beautiful photos which is so calming. My go-to camera is my little FujiFilm X-E3, with either my 35mm F1.4 or 23mm F1.4.
 
+### Socials & Contact info
+- Email <aram@apra.dev>
+- Instagram (dev): [`@aram.ap.dev`](https://www.instagram.com/aram.ap.dev/)
+- Instagram (photo): [`@aramsphotos`](https://www.instagram.com/aramsphotos/)
+- Website (Under construction): <https://www.apra.dev>
+
 ---
 
 -Aram Aprahamian
 aram@apra.dev
+
