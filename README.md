@@ -1,8 +1,6 @@
 ### About me
 
----
-
-## Hi! I'm Aram Aprahamian, aka @aram-ap ... <br>
+## Hi! I'm Aram Aprahamian, aka @aram-ap ... 🌌🌊 <br>
 I'm a SWE/Student based in Southern California, studying for my bachelors in CS. Whenever I'm not in school, I'm usually taking photos with my camera, listening to music (and collecting records), and building keyboards. <br>
 
 ### My dev side
