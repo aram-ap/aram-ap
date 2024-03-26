@@ -16,6 +16,7 @@ Through my projects and internships, I'm comfortable developing with JavaFX, Jav
 - Email <aram@apra.dev>
 - Instagram (dev): [`@aram.ap.dev`](https://www.instagram.com/aram.ap.dev/)
 - Instagram (photo): [`@aramsphotos`](https://www.instagram.com/aramsphotos/)
+- Linkedin: [Aram-Aprahamian](https://www.linkedin.com/in/aram-aprahamian/)
 - Website (Under construction): <https://www.apra.dev>
 
 ---
