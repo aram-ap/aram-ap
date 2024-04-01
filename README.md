@@ -1,7 +1,7 @@
 ## About me
 
 ## Hi! I'm Aram Aprahamian, aka @aram-ap ... 🌌🌊 <br>
-I'm a SWE/Student based in Southern California, studying for my bachelors in CS. Whenever I'm not in school, I'm usually taking photos with my camera, listening to music (and collecting records), and building keyboards. <br>
+I'm a Sophomore SWE Student based in Southern California, studying for my bachelors in CS. Whenever I'm not in school, I'm usually taking photos with my camera, listening to music (and collecting records), and building keyboards. <br>
 
 ### My dev side:
 My focus is in Game Development, embedded hardware programming, HPC, and image processing. My primary coding languages are Java, C#, C, Swift, and Python, however, I'm always trying to learn new languages and tech stacks.
